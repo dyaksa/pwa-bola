@@ -1,0 +1,15 @@
+{
+  "name": "My First PWA",
+  "short_name": "My PWA",
+  "description": "Aplikasi PWA pertama saya",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fc5d63",
+  "theme_color": "#fc5d63",
+  "gcm_sender_id": "722709262625",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
